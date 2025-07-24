@@ -6,11 +6,19 @@ This project predicts whether a loan will be approved or not based on various ap
 ```
 Loan-Prediction-Project/
 ├── app.py # Streamlit App
+│
 ├── models/
 │ └── final_model.pkl # Trained ML model
+│
 ├── merged_data.csv
+│
 ├── notebook.ipynb # Jupyter notebook (EDA + model training)
-├── Requirements.txt 
+│
+├── Requirements.txt
+│
+├── PPT/
+│   └── Final_Presentation.pptx
+│ 
 └── README.md # Project description
 ```
 
