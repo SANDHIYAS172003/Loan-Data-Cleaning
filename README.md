@@ -41,7 +41,6 @@ The goal is to build a machine learning model that predicts whether a loan appli
 
 - Logistic Regression
 - Decision Tree
-- (Optional: SVM, Random Forest)
 
 ## 💡 Steps Followed
 
@@ -52,7 +51,7 @@ The goal is to build a machine learning model that predicts whether a loan appli
 5. Model Saving (.pkl)
 6. Web App using Streamlit
 
-    Team Members
+## ✍️ Team Members
    
 VIDHYALAKSHMI RV
 
